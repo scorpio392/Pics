@@ -54,7 +54,7 @@
     {
       "groupId": "gr",
       "id": "r-4k",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/4K.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/4K.svg",
       "isEnabled": true,
       "name": "4K",
       "pattern": "(?i)\\b(?:2160[pi]?|4k|uhd)\\b",
@@ -67,7 +67,7 @@
     {
       "groupId": "gr",
       "id": "r-1440",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/1440p.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/1440p.svg",
       "isEnabled": true,
       "name": "1440p",
       "pattern": "(?i)\\b1440[pi]?\\b",
@@ -80,7 +80,7 @@
     {
       "groupId": "gr",
       "id": "r-1080",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/1080p.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/1080p.svg",
       "isEnabled": true,
       "name": "1080p",
       "pattern": "(?i)\\b1080[pi]?\\b",
@@ -93,7 +93,7 @@
     {
       "groupId": "gr",
       "id": "r-720",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/720p.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/720p.svg",
       "isEnabled": true,
       "name": "720p",
       "pattern": "(?i)\\b720[pi]?\\b",
@@ -106,7 +106,7 @@
     {
       "groupId": "gr",
       "id": "r-576",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/576p.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/576p.svg",
       "isEnabled": true,
       "name": "576p",
       "pattern": "(?i)\\b576[pi]?\\b",
@@ -119,7 +119,7 @@
     {
       "groupId": "gr",
       "id": "r-480",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/480p.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/480p.svg",
       "isEnabled": true,
       "name": "480p",
       "pattern": "(?i)\\b480[pi]?\\b",
@@ -132,7 +132,7 @@
     {
       "groupId": "gr",
       "id": "r-360",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/360p.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/360p.svg",
       "isEnabled": true,
       "name": "360p",
       "pattern": "(?i)\\b360[pi]?\\b",
@@ -145,7 +145,7 @@
     {
       "groupId": "gr",
       "id": "r-240",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/240p.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/240p.svg",
       "isEnabled": true,
       "name": "240p",
       "pattern": "(?i)\\b240[pi]?\\b",
@@ -158,7 +158,7 @@
     {
       "groupId": "gq",
       "id": "q-r",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/remux.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/remux.svg",
       "isEnabled": true,
       "name": "Remux",
       "pattern": "(?i)\\b(?:bd|uhd|bluray|blu[- ]?ray)?[-_. ]?remux\\b",
@@ -171,7 +171,7 @@
     {
       "groupId": "gq",
       "id": "q-b",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/bluray.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/bluray.svg",
       "isEnabled": true,
       "name": "BluRay",
       "pattern": "(?i)^(?=.*(?:bluray|blu-ray|\\bb[dr][-_. ]?rip\\b|\\bbd(?:25|50|r|mv)?\\b))(?!.*\\b(?:bd|uhd|bluray|blu[- ]?ray)?[-_. ]?remux\\b)",
@@ -184,7 +184,7 @@
     {
       "groupId": "gq",
       "id": "q-w",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/webdl.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/webdl.svg",
       "isEnabled": true,
       "name": "WEB-DL",
       "pattern": "(?i)\\bweb[-_. ]?dl\\b",
@@ -197,7 +197,7 @@
     {
       "groupId": "gq",
       "id": "q-webrip",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/webrip.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/webrip.svg",
       "isEnabled": true,
       "name": "WEBRip",
       "pattern": "(?i)\\bweb[-_. ]?rip\\b",
@@ -210,7 +210,7 @@
     {
       "groupId": "gq",
       "id": "q-hdrip",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/HDRip.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/HDRip.svg",
       "isEnabled": true,
       "name": "HDRip",
       "pattern": "(?i)\\bhd[-_. ]?rip\\b",
@@ -223,7 +223,7 @@
     {
       "groupId": "gq",
       "id": "q-hcrip",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/HC_HD-Rip.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/HC_HD-Rip.svg",
       "isEnabled": true,
       "name": "HC HD-Rip",
       "pattern": "(?i)(?=.*\\bhc\\b)(?=.*\\bhd[-_. ]?rip\\b)",
@@ -236,7 +236,7 @@
     {
       "groupId": "gq",
       "id": "q-dvdrip",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/DVDRip.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/DVDRip.svg",
       "isEnabled": true,
       "name": "DVDRip",
       "pattern": "(?i)\\bdvd[-_. ]?rip\\b",
@@ -249,7 +249,7 @@
     {
       "groupId": "gq",
       "id": "q-hdtv",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/HDTV.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/HDTV.svg",
       "isEnabled": true,
       "name": "HDTV",
       "pattern": "(?i)\\bhdtv\\b",
@@ -262,7 +262,7 @@
     {
       "groupId": "gq",
       "id": "q-dvdscr",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/DVDScr.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/DVDScr.svg",
       "isEnabled": true,
       "name": "DVDScr",
       "pattern": "(?i)\\bdvd[\\s._-]?scr(?:eener)?\\b",
@@ -275,7 +275,7 @@
     {
       "groupId": "gq",
       "id": "q-cam",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/cam.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/cam.svg",
       "isEnabled": true,
       "name": "CAM",
       "pattern": "(?i)^(?=.*(?:\\bcam(?:rip)?\\b|\\bhdcam\\b|\\bts\\b|\\btelesync\\b|\\bhdts\\b|\\btc\\b|\\btelecine\\b|(?<!dvd)(?<!dvd[._-])\\bscr(?:eener)?\\b))(?!.*\\bdvd[\\s._-]?scr)",
@@ -288,7 +288,7 @@
     {
       "groupId": "gv",
       "id": "v-dv",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/vision.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/vision.svg",
       "isEnabled": true,
       "name": "DV",
       "pattern": "(?i)^(?=.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?!.*\\b(?:atmos|true[ ._-]?hd|ddp(?:[ ._-]?\\d\\.\\d)?|dd\\+|eac-?3|e-?ac-?3|dolby[\\s._-]?digital|dd(?:[ ._-]?[257]\\.[01])?|ac-?3)\\b)",
@@ -301,7 +301,7 @@
     {
       "groupId": "gv",
       "id": "v-hdr10p",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/HDR10Plus.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/HDR10Plus.svg",
       "isEnabled": true,
       "name": "HDR10+",
       "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*hdr[\\s._-]?10[\\s._-]?(?:\\+|plus|p))",
@@ -314,7 +314,7 @@
     {
       "groupId": "gv",
       "id": "v-hdr10",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/HDR10.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/HDR10.svg",
       "isEnabled": true,
       "name": "HDR10",
       "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*hdr[\\s._-]?10)(?!.*hdr[\\s._-]?10[\\s._-]?(?:\\+|plus|p))",
@@ -327,7 +327,7 @@
     {
       "groupId": "gv",
       "id": "v-hdr",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/HDR.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/HDR.svg",
       "isEnabled": true,
       "name": "HDR",
       "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*\\bHDR\\b)(?!.*hdr[\\s._-]?10)",
@@ -340,7 +340,7 @@
     {
       "groupId": "gv",
       "id": "v-imax-e",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/IMAX-enhanced.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/IMAX-enhanced.svg",
       "isEnabled": true,
       "name": "IMAX Enhanced",
       "pattern": "(?i)\\bimax[\\s._-]?enhanced\\b",
@@ -353,7 +353,7 @@
     {
       "groupId": "gv",
       "id": "v-imax",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/IMAX.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/IMAX.svg",
       "isEnabled": true,
       "name": "IMAX",
       "pattern": "(?i)^(?=.*\\bIMAX\\b)(?!.*enhanced)",
@@ -366,7 +366,7 @@
     {
       "groupId": "gv",
       "id": "v-10bit",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/10bit.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/10bit.svg",
       "isEnabled": true,
       "name": "10bit",
       "pattern": "(?i)\\b10[\\s._-]?bit\\b",
@@ -379,7 +379,7 @@
     {
       "groupId": "gv",
       "id": "v-sdr",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/SDR.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/SDR.svg",
       "isEnabled": true,
       "name": "SDR",
       "pattern": "(?i)^(?!.*\\b(?:hdr10\\+|hdr10|hdr|dv|dovi|dolby[\\s._-]?vision|imax|imax[\\s._-]?enhanced|10\\s*bit|seadex)\\b).*?\\bSDR\\b",
@@ -392,7 +392,7 @@
     {
       "groupId": "gv",
       "id": "v-atmosvision",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/atmos-vision.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/atmos-vision.svg",
       "isEnabled": true,
       "name": "Atmos-Vision",
       "pattern": "(?i)^(?=.*(?:dv|dovi|dolby[\\s._-]?vision))(?=.*atmos).*",
@@ -405,7 +405,7 @@
     {
       "groupId": "gv",
       "id": "v-digitalplusvison",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/digitalplus-vision.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/digitalplus-vision.svg",
       "isEnabled": true,
       "name": "DigitalPlus-Vision",
       "pattern": "(?i)^(?=.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*\\b(?:ddp|dd\\+|eac-?3|e-?ac-?3)\\b)(?!.*\\batmos\\b)(?!.*\\btrue[ ._-]?hd\\b)",
@@ -418,7 +418,7 @@
     {
       "groupId": "gv",
       "id": "v-digitalvision",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/digital-vision.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/digital-vision.svg",
       "isEnabled": true,
       "name": "Digital-Vision",
       "pattern": "(?i)(?=.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?!.*(?:\\bddp\\b|\\bdd\\+\\b|\\be-?ac-?3\\b|\\beac-?3\\b))(?!.*\\batmos\\b)(?!.*\\btrue[ ._-]?hd\\b)(?=.*(?:\\bdolby[\\s._-]?digital\\b|\\bdd(?:[ ._-]?[257]\\.[01])?\\b|\\bac-?3\\b|\\bdolby[\\s._-]?digital(?:[ ._-]?\\d\\.\\d)?))",
@@ -431,7 +431,7 @@
     {
       "groupId": "gv",
       "id": "v-truehdvision",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/truehd-vision.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/truehd-vision.svg",
       "isEnabled": true,
       "name": "TrueHD-Vision",
       "pattern": "(?i)^(?=.*(?:dv|dovi|dolby[\\s._-]?vision))(?=.*true[ ._-]?hd)(?!.*atmos).*",
@@ -444,7 +444,7 @@
     {
       "groupId": "ga",
       "id": "a-at",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/atmos.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/atmos.svg",
       "isEnabled": true,
       "name": "Atmos",
       "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*\\batmos\\b)",
@@ -457,7 +457,7 @@
     {
       "groupId": "ga",
       "id": "a-dtsx",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/dtsx.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/dtsx.svg",
       "isEnabled": true,
       "name": "DTS:X",
       "pattern": "(?i)^(?=.*\\bdts[-_.: ]?x\\b)(?!.*\\batmos\\b)",
@@ -470,7 +470,7 @@
     {
       "groupId": "ga",
       "id": "a-th",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/truehd.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/truehd.svg",
       "isEnabled": true,
       "name": "TrueHD",
       "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?!.*\\batmos\\b)(?=.*\\btrue[ ._-]?hd\\b)",
@@ -483,7 +483,7 @@
     {
       "groupId": "ga",
       "id": "a-dtsma",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/dtshdma.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/dtshdma.svg",
       "isEnabled": true,
       "name": "DTS-HD MA",
       "pattern": "(?i)^(?=.*\\bdts[-_. ]?(?:hd[-_. ]?)?ma\\b)(?!.*\\bdts[-_.: ]?x\\b)(?!.*\\batmos\\b)",
@@ -496,7 +496,7 @@
     {
       "groupId": "ga",
       "id": "a-dtshd",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/dtshd.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/dtshd.svg",
       "isEnabled": true,
       "name": "DTS-HD",
       "pattern": "(?i)^(?=.*\\bdts[-_. ]?hd\\b)(?!.*\\bdts[-_. ]?(?:hd[-_. ]?)?ma\\b)(?!.*\\bdts[-_.: ]?x\\b)(?!.*\\batmos\\b)",
@@ -509,7 +509,7 @@
     {
       "groupId": "ga",
       "id": "a-dp",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/digitalplus.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/digitalplus.svg",
       "isEnabled": true,
       "name": "DD+",
       "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*(?:\\bddp|\\bdd\\+|\\beac-?3|\\be-?ac-?3))(?!.*\\batmos\\b)(?!.*\\btrue[ ._-]?hd\\b)",
@@ -522,7 +522,7 @@
     {
       "groupId": "ga",
       "id": "a-dtses",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/dtses.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/dtses.svg",
       "isEnabled": true,
       "name": "dts-ES",
       "pattern": "(?i)^(?=.*\\bdts[-_. ]?es\\b)(?!.*\\bdts[-_. ]?(?:hd|ma|xll|x)\\b)(?!.*\\batmos\\b)",
@@ -535,7 +535,7 @@
     {
       "groupId": "ga",
       "id": "a-dts",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/dts.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/dts.svg",
       "isEnabled": true,
       "name": "DTS",
       "pattern": "(?i)^(?=.*\\bdts\\b)(?!.*\\bdts[-_. ]?(?:es|hd|ma|xll|x)\\b)(?!.*\\batmos\\b)",
@@ -548,7 +548,7 @@
     {
       "groupId": "ga",
       "id": "a-dd",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/digital.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/digital.svg",
       "isEnabled": true,
       "name": "DD",
       "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?!.*(?:\\bddp\\b|\\bdd\\+\\b|\\be-?ac-?3\\b|\\beac-?3\\b))(?!.*\\batmos\\b)(?!.*\\btrue[ ._-]?hd\\b)(?=.*(?:\\bdolby[\\s._-]?digital\\b|\\bdd(?:[ ._-]?[257]\\.[01])?\\b|\\bac-?3\\b))",
@@ -561,7 +561,7 @@
     {
       "groupId": "gco",
       "id": "co-hevc",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/HEVC.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/HEVC.svg",
       "isEnabled": true,
       "name": "HEVC",
       "pattern": "(?i)\\b(?:hevc|h[\\s._-]?265|x265)\\b",
@@ -574,7 +574,7 @@
     {
       "groupId": "gco",
       "id": "co-av1",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/AV1.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/AV1.svg",
       "isEnabled": true,
       "name": "AV1",
       "pattern": "(?i)\\bav1\\b",
@@ -587,7 +587,7 @@
     {
       "groupId": "gco",
       "id": "co-avc",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/AVC.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/AVC.svg",
       "isEnabled": true,
       "name": "AVC",
       "pattern": "(?i)\\b(?:avc|h[\\s._-]?264|x264)\\b",
@@ -600,7 +600,7 @@
     {
       "groupId": "gco",
       "id": "co-xvid",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/XviD.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/XviD.svg",
       "isEnabled": true,
       "name": "XviD",
       "pattern": "(?i)\\b(?:xvid|divx)\\b",
@@ -613,7 +613,7 @@
     {
       "groupId": "gch",
       "id": "ch-71",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/7.1.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/7.1.svg",
       "isEnabled": true,
       "name": "7.1",
       "pattern": "(?i)[^0-9][7-8][ .][01]\\b",
@@ -626,7 +626,7 @@
     {
       "groupId": "gch",
       "id": "ch-61",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/6.1.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/6.1.svg",
       "isEnabled": true,
       "name": "6.1",
       "pattern": "(?i)^(?=.*[^0-9]6[ .][01]\\b)(?!.*[^0-9][7-8][ .][01]\\b)",
@@ -639,7 +639,7 @@
     {
       "groupId": "gch",
       "id": "ch-51",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/5.1.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/5.1.svg",
       "isEnabled": true,
       "name": "5.1",
       "pattern": "(?i)^(?=.*[^0-9]5[ .][01]\\b)(?!.*[^0-9][6-8][ .][01]\\b)",
@@ -652,7 +652,7 @@
     {
       "groupId": "gch",
       "id": "ch-20",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/2.0.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/2.0.svg",
       "isEnabled": true,
       "name": "2.0",
       "pattern": "(?i)^(?=.*(?:[^0-9]2[ .]0\\b|\\bStereo\\b))(?!.*[^0-9][5-8][ .][0-1]\\b)(?!.*[^0-9]6[ .][0-1]\\b)",
@@ -665,7 +665,7 @@
     {
       "groupId": "gst",
       "id": "st-seadex",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/SeaDex.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/SeaDex.svg",
       "isEnabled": true,
       "name": "SeaDex",
       "pattern": "(?i)\\b(?:seadex|best[\\s._-]?release|alt[\\s._-]?(?:best[\\s._-]?)?release)\\b|ᴀʟᴛ ʀᴇʟᴇᴀsᴇ|ʙᴇsᴛ ʀᴇʟᴇᴀsᴇ",
@@ -679,7 +679,7 @@
       "id": "st-bw",
       "name": "B&W",
       "groupId": "gst",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/B&W.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/B&W.svg",
       "isEnabled": true,
       "pattern": "(?i)(?!.*\\b(?:True[\\s._-]?Hue(?:[\\s._-]?(?:Full[\\s._-]?)?Color)?|True\\.Hue|COLORIZED|Full[\\s._-]?Color)\\b)(?:\\u206b|\\b(?:Authentic[\\s._-]?(?:BW|Black(?:[\\s._-]?(?:and|&)[\\s._-]?White)?)|Authentic\\.BW|Black[\\s._-]?(?:and|&)[\\s._-]?White)\\b|(?:[\\s._]|^)BW(?:[\\s._]|$)|(?:[\\s._]|^)B\\s*[&＆]\\s*W(?:[\\s._]|$))",
       "tagColor": "#00000000",
@@ -692,7 +692,7 @@
       "id": "st-colorized",
       "name": "Colorized",
       "groupId": "gst",
-      "imageURL": "https://raw.github.com/mdones69/Pics/main/Colorized.svg",
+      "imageURL": "https://raw.github.com/scorpio392/Pics/main/Colorized.svg",
       "isEnabled": true,
       "pattern": "(?i)(?:\\u206a|\\b(?:True[\\s._-]?Hue(?:[\\s._-]?(?:Full[\\s._-]?)?Color)?|True\\.Hue|COLORIZED|Full[\\s._-]?Color)\\b)",
       "tagColor": "#00000000",
